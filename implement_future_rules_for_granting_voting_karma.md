@@ -18,6 +18,16 @@ Voting karma should in future be granted on request if
 * the requester has shown interaction with the main discussion medium of the relevant part
 * the requester has a proponent that currently has voting karma
 
+### Process:
+
+The requester should search a proponent of their case that then proposes the request for voting karma to the 
+dedicated discussion medium for such requests. The proposal should include the reasons why the proponent thinks 
+the requester fullfills the above stated requirements. After this request there will be a two week period in which 
+objections and approvals will be brought in. When there are more approvals than objections the voting karma will
+be granted.
+
+Currently the dedicated discussion medium is the internals mailinglist at internals@php.net
+
 ## Backward Incompatible Changes
 There will be no backwards incompatible changes. Currently granted karma is not subject to discussion. 
 The processes and ideas outlined in this RFC are only subject to future grants for voting karma.
