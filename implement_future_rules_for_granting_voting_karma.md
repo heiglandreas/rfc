@@ -23,10 +23,13 @@ Voting karma should in future be granted on request if
 The requester should search a proponent of their case that then proposes the request for voting karma to the 
 dedicated discussion medium for such requests. The proposal should include the reasons why the proponent thinks 
 the requester fullfills the above stated requirements. After this request there will be a two week period in which 
-objections and approvals will be brought in. When there are more approvals than objections the voting karma will
-be granted.
+objections and approvals will be brought in. Once this period is over, if there are more approvals than objections 
+the voting karma will be granted.
 
 Currently the dedicated discussion medium is the internals mailinglist at internals@php.net
+
+A list of people that are willing to act as proponents and/or mentors would be a gread addition but is not
+part of this RFC
 
 ## Backward Incompatible Changes
 There will be no backwards incompatible changes. Currently granted karma is not subject to discussion. 
@@ -75,6 +78,8 @@ thing the discussion around how voting karma is granted and why some people have
 not waste resources and also people that *want* karma can now follow a clear path and guidance. This will also 
 improve the overall interaction with the PHP core contributors - whether that touches src, docs, bugs or 
 infrastructure.
+
+Creating a list of people volunteering to act as proponents and/or mentors
 
 ## Proposed Voting Choices
 
